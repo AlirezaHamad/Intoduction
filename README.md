@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlirezaHamad
-- 👀 I’m interested in C#, 
-- 🌱 I’m currently learning JS, JQuery, React, HTML, CSS,
+- 👀 I’m interested in C#, Filemaker 
+- 🌱 I’m currently learning JS, JQuery, React, HTML, CSS, NodeJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
